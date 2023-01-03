@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 this is first commit
 this is feature1
+=======
+This is my first file
 this is feature2
 
-
+>>>>>>> f2
